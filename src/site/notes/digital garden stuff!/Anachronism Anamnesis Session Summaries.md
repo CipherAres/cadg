@@ -8,3 +8,5 @@ The party met up with one of Esme's aides; an NHP by the name of Flux. They abso
 Session 2:  
 The party arrives in Colony 6. They gather information about the situation there, hone their skills, tinker about and make some connections. After intervening in an altercation between two mercenaries, they rendezvous with their contact, a Harrier guild member by the name of Gustav Howard. In all likelihood, the animals have been acting up to a disturbance at the top of the food chain caused by the arrival of a creature not native to the region, forcing other fauna to leave their old territory. After exchanging information and making some preparations, they return to their quarters to rest. Tomorrow, they'll head to the mountains northwest of Colony 6 to hunt down their quarry.
 
+Session 3:
+The party began the hunt for their quarry, and manage to complete it successfully. The target's especially grotesque appearance suggests it was not native to this planet...
