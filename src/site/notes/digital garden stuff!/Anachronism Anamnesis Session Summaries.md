@@ -11,6 +11,9 @@ The party arrives in Colony 6. They gather information about the situation there
 # Session 3:
 The party began the hunt for their quarry, and manage to complete it successfully. The target's especially grotesque appearance suggests it was not native to this planet...
 
-
 # Session 4: #
 The party receives coordinates for their mission, leading them to the coast near Colony 4; when they arrive, they find a delapidated launch platform made for slinging mechanized chassis across the ocean for fast transport Floating over the water was some sort of orb that looks like a gap in space akin to a black hole, and ships from both Smith Shimano Corpro and Harrison Armory under attack by a swarm of strange creatures. A strange light appears on the surface of the orb; the party launches towards it, fighting off the swarm and eventually making their way inside.
+
+
+# Session 4 + 5 #
+Inside the Orb™, the party is made to Ponder their own (and each other's) past(s). As well as the past of another world. After a fight against a powerful mechanized chassis, a voice calls out to them, introducing itself as Daedalion and revealing itself to be an "ascended" artificial intelligence from the world they witnessed; it explains it was constructed to simulate other timelines to find one where the humans of its timeline could escape to and avoid certain doom. Daedalion instructs the party to  infiltrate a joint Smith Shimano/Harrison Armory base where they are keeping a casket that holds great power; the cause of the creatures the party encountered earlier, and a threat to the planet, if not the entire universe, if it is not removed from this reality. It provides the party with tools and information on their target as well as some co-conspirators that will aid them, and then sends them on their way.
