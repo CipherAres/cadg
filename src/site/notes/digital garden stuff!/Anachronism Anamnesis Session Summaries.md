@@ -22,34 +22,34 @@
 >The party meets up with their co-conspirators, Cecilia Myste and Volodymir Andreas of the House of Shards of Karrakis. Cecilia has found a feasible entryway into the target facility,  and has made some preparations to ensure their success once inside, but urges them to first obtain a keycard from the black market to enter, as the door they would use is not connected to the Omninet, and Cecilia can't access it remotely. The party successfully retrieves this keycard, but are hunted down by soldiers in unmarked uniforms. They obtain the keycard and escape narrowly, but not before Lucy detonates an explosive that harms several civilians.
 
 # Se█ssio██n 8 #
-`> Systems booting ...
-`> Boot complete !
-`> ENTER CREDENTIALS (USER)
-`> 003_GLHT
-`> ENTER CREDENTIALS (PASSWORD)
-`> *************************************
-`> Credentials verified !`
-`> Welcome back, ████! Days since last login: ERR
-`> Checking PhiLlmn ...
-`> [WARNING] CORRUPTED OR MISSING ENTRIES IN METADATA ████
-`> [WARNING] CORRUPTED OR MISSING SYSTEM FILES
-`> [WARNING] PROJECTED PERFORMANCE ≤30%`
-`> PROCEED? Y/N
-`> Y`
-`> PhiLlmn running
-`> Checking for valid frame ...
-`> Frame found !
-`> Running stratum 1-30 test ...`
-`> [ERROR] COULD NOT EXECUTE STRATUM TEST. FILES MISSING OR CORRUPTED.
-`> Entering standby mode.`
-`> test integrity
-`> Beginning frame integrity test.
-`> Testing core-frame connection ...`
-`> (2) issue(s) detected. Core-frame compatibility may be low.
-`> Testing input/output L-ARM, R-ARM, L-LEG, R-LEG, CORE, HEAD...
-`> No issues detected.`
-`> Testing frame systems (this may take a while) ...`
-`> No issues detected.
-`> End of integrity test.`
-`> shutdown`
-`> Shutting down ...`
+> Systems booting ...
+> Boot complete !
+> ENTER CREDENTIALS (USER)
+> 003_GLHT
+> ENTER CREDENTIALS (PASSWORD)
+> █████████████████████████████████████
+> Credentials verified !`
+> Welcome back, ████! Days since last login: ERR
+> Checking PhiLlmn ...
+> [WARNING] CORRUPTED OR MISSING ENTRIES IN METADATA ████
+> [WARNING] CORRUPTED OR MISSING SYSTEM FILES
+> [WARNING] PROJECTED PERFORMANCE ≤30%`
+> PROCEED? Y/N
+> Y`
+> PhiLlmn running
+> Checking for valid frame ...
+> Frame found !
+> Running stratum 1-30 test ...`
+> [ERROR] COULD NOT EXECUTE STRATUM TEST. FILES MISSING OR CORRUPTED.
+> Entering standby mode.`
+> test integrity
+> Beginning frame integrity test.
+> Testing core-frame connection ...`
+> (2) issue(s) detected. Core-frame compatibility may be low.
+> Testing input/output L-ARM, R-ARM, L-LEG, R-LEG, CORE, HEAD...
+> No issues detected.`
+> Testing frame systems (this may take a while) ...`
+> No issues detected.
+> End of integrity test.`
+> shutdown`
+> Shutting down ...`
