@@ -28,28 +28,28 @@
 > 003_GLHT
 > ENTER CREDENTIALS (PASSWORD)
 > █████████████████████████████████████
-> Credentials verified !`
+> Credentials verified !
 > Welcome back, ████! Days since last login: ERR
 > Checking PhiLlmn ...
 > [WARNING] CORRUPTED OR MISSING ENTRIES IN METADATA ████
 > [WARNING] CORRUPTED OR MISSING SYSTEM FILES
-> [WARNING] PROJECTED PERFORMANCE ≤30%`
+> [WARNING] PROJECTED PERFORMANCE ≤30%
 > PROCEED? Y/N
-> Y`
+> Y
 > PhiLlmn running
 > Checking for valid frame ...
 > Frame found !
-> Running stratum 1-30 test ...`
+> Running stratum 1-30 test ...
 > [ERROR] COULD NOT EXECUTE STRATUM TEST. FILES MISSING OR CORRUPTED.
-> Entering standby mode.`
+> Entering standby mode.
 > test integrity
 > Beginning frame integrity test.
-> Testing core-frame connection ...`
+> Testing core-frame connection ...
 > (2) issue(s) detected. Core-frame compatibility may be low.
 > Testing input/output L-ARM, R-ARM, L-LEG, R-LEG, CORE, HEAD...
-> No issues detected.`
-> Testing frame systems (this may take a while) ...`
 > No issues detected.
-> End of integrity test.`
-> shutdown`
-> Shutting down ...`
+> Testing frame systems (this may take a while) ...
+> No issues detected.
+> End of integrity test.
+> shutdown
+> Shutting down ...
