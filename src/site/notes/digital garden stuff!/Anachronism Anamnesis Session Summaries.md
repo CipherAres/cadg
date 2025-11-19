@@ -53,3 +53,28 @@
 > End of integrity test.
 > shutdown
 > Shutting down ...
+
+# Session 9 #
+> Systems booting ...
+> Boot complete !
+> ENTER CREDENTIALS (USER)
+> 003_GLHT
+> ENTER CREDENTIALS (PASSWORD)
+> █████████████████████████████████████
+> Credentials verified !
+> Welcome back, ████! Days since last login: ERR
+> Checking PhiLlmn ...
+> [WARNING] CORRUPTED OR MISSING ENTRIES IN METADATA ████
+> [WARNING] CORRUPTED OR MISSING SYSTEM FILES
+> [WARNING] PROJECTED PERFORMANCE ≤30%
+> PROCEED? Y/N
+> Y
+> PhiLlmn running
+> Checking for valid frame ...
+> Frame found !
+> Running stratum 1-30 test ...
+> [ERROR] COULD NOT EXECUTE STRATUM TEST. FILES MISSING OR CORRUPTED.
+> Entering standby mode.
+> activate scorched-earth
+> [WARNING] This will activate PhiLlmn automated combat protocol with friend/foe recognition disabled, and all limiters removed. Are you certain you wish to proceed? Y/N
+>  Y
